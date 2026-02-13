@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 3 [COMPLETED]
+## Current Status: Step 4 [COMPLETED]
 
 ## Step Breakdown
 
@@ -20,9 +20,9 @@
 - [x] Implement all Character interface methods
 - [x] Define special ability (e.g., PIERCING SHOT)
 
-### Step 4: Complete Warrior Class [PENDING]
-- [ ] Add equipment fields and methods
-- [ ] Ensure implements all Character interface methods
+### Step 4: Complete Warrior Class [COMPLETED]
+- [x] Add equipment fields and methods
+- [x] Ensure implements all Character interface methods
 
 ### Step 5: Define Weapon and Armor Interface Methods [PENDING]
 - [ ] Weapon interface: getDamage(), getWeaponInfo(), getWeaponType()
