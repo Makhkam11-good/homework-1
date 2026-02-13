@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 6 [COMPLETED]
+## Current Status: Step 7 [COMPLETED]
 
 ## Step Breakdown
 
@@ -34,10 +34,10 @@
 - [x] Create PlateArmor (Medieval armor)
 - [x] Both implement required interfaces
 
-### Step 7: Create Magic Equipment Theme [PENDING]
-- [ ] Create WizardStaff (Magic weapon)
-- [ ] Create EnchantedRobes (Magic armor)
-- [ ] Both implement required interfaces
+### Step 7: Create Magic Equipment Theme [COMPLETED]
+- [x] Create WizardStaff (Magic weapon)
+- [x] Create EnchantedRobes (Magic armor)
+- [x] Both implement required interfaces
 
 ### Step 8: Create Ranger Equipment Theme [PENDING]
 - [ ] Create Longbow (Ranger weapon)
