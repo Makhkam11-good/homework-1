@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 4 [COMPLETED]
+## Current Status: Step 5 [COMPLETED]
 
 ## Step Breakdown
 
@@ -24,10 +24,10 @@
 - [x] Add equipment fields and methods
 - [x] Ensure implements all Character interface methods
 
-### Step 5: Define Weapon and Armor Interface Methods [PENDING]
-- [ ] Weapon interface: getDamage(), getWeaponInfo(), getWeaponType()
-- [ ] Armor interface: getDefense(), getArmorInfo(), getArmorType()
-- [ ] Add displayInfo() methods
+### Step 5: Define Weapon and Armor Interface Methods [COMPLETED]
+- [x] Weapon interface: getDamage(), getWeaponInfo(), getWeaponType()
+- [x] Armor interface: getDefense(), getArmorInfo(), getArmorType()
+- [x] Add displayInfo() methods
 
 ### Step 6: Create Medieval Equipment Theme [PENDING]
 - [ ] Complete IronSword (Medieval weapon)
