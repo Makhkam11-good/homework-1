@@ -48,6 +48,9 @@ Desktop.ini
 *.jar
 *.war
 *.ear
+
+# Project
+TASK.md
 hs_err_pid*
 
 # Temporary files
