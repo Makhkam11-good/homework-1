@@ -1,13 +1,15 @@
 package com.narxoz.rpg.equipment;
 
-public class IronSword implements Weapon {
+public class WizardStaff implements Weapon {
 
     private int damage;
     private String weaponType;
+    private int manaBoost;
 
-    public IronSword() {
-        this.damage = 25;
-        this.weaponType = "Sword";
+    public WizardStaff() {
+        this.damage = 15;
+        this.weaponType = "Staff";
+        this.manaBoost = 20;
     }
 
     @Override
@@ -17,7 +19,7 @@ public class IronSword implements Weapon {
 
     @Override
     public String getWeaponInfo() {
-        return "Iron Sword (Medieval) - A sturdy blade forged from iron";
+        return "Wizard Staff (Magic) - An ancient staff crackling with arcane energy";
     }
 
     @Override
@@ -29,6 +31,7 @@ public class IronSword implements Weapon {
     public void displayInfo() {
         System.out.println("Weapon: " + getWeaponInfo());
         System.out.println("Damage: " + damage);
+        System.out.println("Mana Boost: " + manaBoost);
         System.out.println("Type: " + weaponType);
     }
 }

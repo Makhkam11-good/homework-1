@@ -1,13 +1,15 @@
 package com.narxoz.rpg.equipment;
 
-public class IronSword implements Weapon {
+public class Longbow implements Weapon {
 
     private int damage;
     private String weaponType;
+    private String range;
 
-    public IronSword() {
-        this.damage = 25;
-        this.weaponType = "Sword";
+    public Longbow() {
+        this.damage = 30;
+        this.weaponType = "Bow";
+        this.range = "long";
     }
 
     @Override
@@ -17,7 +19,7 @@ public class IronSword implements Weapon {
 
     @Override
     public String getWeaponInfo() {
-        return "Iron Sword (Medieval) - A sturdy blade forged from iron";
+        return "Longbow (Ranger) - A masterfully crafted bow for precision strikes";
     }
 
     @Override
@@ -29,6 +31,7 @@ public class IronSword implements Weapon {
     public void displayInfo() {
         System.out.println("Weapon: " + getWeaponInfo());
         System.out.println("Damage: " + damage);
+        System.out.println("Range: " + range);
         System.out.println("Type: " + weaponType);
     }
 }

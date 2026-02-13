@@ -3,7 +3,7 @@ package com.narxoz.rpg.character;
 import com.narxoz.rpg.equipment.Weapon;
 import com.narxoz.rpg.equipment.Armor;
 
-public class Warrior implements Character {
+public class Archer implements Character {
 
     private String name;
     private int health;
@@ -13,12 +13,12 @@ public class Warrior implements Character {
     private Weapon weapon;
     private Armor armor;
 
-    public Warrior(String name) {
+    public Archer(String name) {
         this.name = name;
-        this.health = 150;
-        this.mana = 30;
-        this.strength = 80;
-        this.intelligence = 20;
+        this.health = 80;
+        this.mana = 60;
+        this.strength = 70;
+        this.intelligence = 60;
         this.weapon = null;
         this.armor = null;
     }
@@ -50,7 +50,7 @@ public class Warrior implements Character {
 
     @Override
     public void displayStats() {
-        System.out.println("=== " + name + " (Warrior) ===");
+        System.out.println("=== " + name + " (Archer) ===");
         System.out.println("Health: " + health);
         System.out.println("Mana: " + mana);
         System.out.println("Strength: " + strength);
@@ -59,7 +59,7 @@ public class Warrior implements Character {
 
     @Override
     public void useSpecialAbility() {
-        System.out.println(name + " uses BERSERKER RAGE! Strength temporarily increased!");
+        System.out.println(name + " uses PIERCING SHOT! Fires a deadly accurate arrow!");
     }
 
     @Override
