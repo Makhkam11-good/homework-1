@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 2 [COMPLETED]
+## Current Status: Step 3 [COMPLETED]
 
 ## Step Breakdown
 
@@ -15,10 +15,10 @@
 - [x] Implement all Character interface methods
 - [x] Define special ability (e.g., FIREBALL)
 
-### Step 3: Implement Archer Character Class [PENDING]
-- [ ] Create Archer.java with balanced stats
-- [ ] Implement all Character interface methods
-- [ ] Define special ability (e.g., PIERCING SHOT)
+### Step 3: Implement Archer Character Class [COMPLETED]
+- [x] Create Archer.java with balanced stats
+- [x] Implement all Character interface methods
+- [x] Define special ability (e.g., PIERCING SHOT)
 
 ### Step 4: Complete Warrior Class [PENDING]
 - [ ] Add equipment fields and methods
