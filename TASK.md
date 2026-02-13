@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 7 [COMPLETED]
+## Current Status: Step 8 [COMPLETED]
 
 ## Step Breakdown
 
@@ -39,10 +39,10 @@
 - [x] Create EnchantedRobes (Magic armor)
 - [x] Both implement required interfaces
 
-### Step 8: Create Ranger Equipment Theme [PENDING]
-- [ ] Create Longbow (Ranger weapon)
-- [ ] Create LeatherArmor (Ranger armor)
-- [ ] Both implement required interfaces
+### Step 8: Create Ranger Equipment Theme [COMPLETED]
+- [x] Create Longbow (Ranger weapon)
+- [x] Create LeatherArmor (Ranger armor)
+- [x] Both implement required interfaces
 
 ### Step 9: Implement Abstract Factory Pattern [PENDING]
 - [ ] Create EquipmentFactory interface with createWeapon() and createArmor()
