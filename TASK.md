@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 1 [COMPLETED]
+## Current Status: Step 2 [COMPLETED]
 
 ## Step Breakdown
 
@@ -10,10 +10,10 @@
 - [x] Methods: displayStats(), useSpecialAbility()
 - [x] Methods: equipWeapon(), equipArmor(), displayEquipment()
 
-### Step 2: Implement Mage Character Class [PENDING]
-- [ ] Create Mage.java with stats (low health, high mana/intelligence)
-- [ ] Implement all Character interface methods
-- [ ] Define special ability (e.g., FIREBALL)
+### Step 2: Implement Mage Character Class [COMPLETED]
+- [x] Create Mage.java with stats (low health, high mana/intelligence)
+- [x] Implement all Character interface methods
+- [x] Define special ability (e.g., FIREBALL)
 
 ### Step 3: Implement Archer Character Class [PENDING]
 - [ ] Create Archer.java with balanced stats
