@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 5 [COMPLETED]
+## Current Status: Step 6 [COMPLETED]
 
 ## Step Breakdown
 
@@ -29,10 +29,10 @@
 - [x] Armor interface: getDefense(), getArmorInfo(), getArmorType()
 - [x] Add displayInfo() methods
 
-### Step 6: Create Medieval Equipment Theme [PENDING]
-- [ ] Complete IronSword (Medieval weapon)
-- [ ] Create PlateArmor (Medieval armor)
-- [ ] Both implement required interfaces
+### Step 6: Create Medieval Equipment Theme [COMPLETED]
+- [x] Complete IronSword (Medieval weapon)
+- [x] Create PlateArmor (Medieval armor)
+- [x] Both implement required interfaces
 
 ### Step 7: Create Magic Equipment Theme [PENDING]
 - [ ] Create WizardStaff (Magic weapon)
