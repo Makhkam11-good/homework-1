@@ -1,14 +1,14 @@
 # Project Progress Tracker
 
-## Current Status: Step 1 [PENDING]
+## Current Status: Step 1 [COMPLETED]
 
 ## Step Breakdown
 
-### Step 1: Define Character Interface Methods [PENDING]
-- [ ] Add method signatures to Character interface
-- [ ] Methods: getName(), getHealth(), getMana(), getStrength(), getIntelligence()
-- [ ] Methods: displayStats(), useSpecialAbility()
-- [ ] Methods: equipWeapon(), equipArmor(), displayEquipment()
+### Step 1: Define Character Interface Methods [COMPLETED]
+- [x] Add method signatures to Character interface
+- [x] Methods: getName(), getHealth(), getMana(), getStrength(), getIntelligence()
+- [x] Methods: displayStats(), useSpecialAbility()
+- [x] Methods: equipWeapon(), equipArmor(), displayEquipment()
 
 ### Step 2: Implement Mage Character Class [PENDING]
 - [ ] Create Mage.java with stats (low health, high mana/intelligence)
