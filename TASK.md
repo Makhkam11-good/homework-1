@@ -1,6 +1,6 @@
 # Project Progress Tracker
 
-## Current Status: Step 8 [COMPLETED]
+## Current Status: Step 9 [COMPLETED]
 
 ## Step Breakdown
 
@@ -44,11 +44,11 @@
 - [x] Create LeatherArmor (Ranger armor)
 - [x] Both implement required interfaces
 
-### Step 9: Implement Abstract Factory Pattern [PENDING]
-- [ ] Create EquipmentFactory interface with createWeapon() and createArmor()
-- [ ] Create MedievalEquipmentFactory concrete class
-- [ ] Create MagicEquipmentFactory concrete class
-- [ ] Create RangerEquipmentFactory concrete class
+### Step 9: Implement Abstract Factory Pattern [COMPLETED]
+- [x] Create EquipmentFactory interface with createWeapon() and createArmor()
+- [x] Create MedievalEquipmentFactory concrete class
+- [x] Create MagicEquipmentFactory concrete class
+- [x] Create RangerEquipmentFactory concrete class
 
 ### Step 10: Implement Factory Method Pattern & Complete Main [PENDING]
 - [ ] Create CharacterFactory interface/abstract class
